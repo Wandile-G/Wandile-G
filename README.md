@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmrwallpaper.com%2Fprogramming&psig=AOvVaw3u6UG-BSY0CTc5uezZKkh2&ust=1735398565785000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDwuvSdyIoDFQAAAAAdAAAAABAE)...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Wandile Gusha</h1>
 <h3 align="center">BSc Computer Science & IT Student ,💻 Java Enthusiast – I love building efficient and clean code to solve problems. 🌐 Interested in Software Development, Web Development, and Artificial Intelligence. 🌱 Currently exploring advanced programming concepts and sharpening my problem-solving skills. 💡 Aspiring tech innovator with a focus on creating practical solutions for real-world challenges.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611hw67ipr6wjehhvl2qy32gv6ayvo5jl9jnmfrg61o&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="1000" height="400" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47mrohs5fr85wv7bzng0btigk9z26sixr8wsc7945h&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandileg&label=Profile%20views&color=0e75b6&style=flat" alt="wandileg" /> </p>
 
@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wandileg&show_icons=true&locale=en" alt="wandileg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wandileg&" alt="wandileg" /></p>
+
+
